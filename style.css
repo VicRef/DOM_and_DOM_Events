@@ -33,6 +33,15 @@
     /* color: black; */
 }
 
+.tempClass {
+    background-color: hsl(7, 94%, 51%);;
+    float: left;
+    width: 20%;
+    padding: 15px;
+    margin-top: 7px;
+    text-align: center;
+}
+
 li {
     padding: 2px;
 }
@@ -59,4 +68,10 @@ button {
     justify-content: space-between; 
     padding: 20px; 
     border: solid;
+}
+
+
+.inputFirstName {
+    color: rgb(255, 21, 0);
+    font-size: larger;
 }
